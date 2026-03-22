@@ -26,7 +26,7 @@ This project analyzes a public marketing dataset (30k+ rows) to measure campaign
 ## 🚨 Recommendations
 * **Recommendation 1:** A/B test ad messaging and creative assets to improve the 8.51% CTR. A minor 1% increase would drive millions of additional high intent users into the bottom of the funnel.
 * **Recommendation 2:** The Youth segment currently requires high campaign volume for lower revenue returns. Re-allocate budget from general awareness to high-ROI channels like Instagram for this specific demographic.
-* **Recommendation 3:** With a staggering 140K% ROI, email is the most profitable channel. Scale email across all new fashion clientele to hit the $8M revenue goal by December 31, 2026
+* **Recommendation 3:** With a staggering 140K% ROI, email is the most profitable channel. Scale email across all new fashion clientele to hit the $8M revenue goal by December 31, 2026.
 
 
 Data: https://www.kaggle.com/datasets/nalisha/nykaa-marketing-campaign-performance-dataset
