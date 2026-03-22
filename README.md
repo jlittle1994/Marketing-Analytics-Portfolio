@@ -11,8 +11,8 @@ This project analyzes a public marketing dataset (30k+ rows) to measure campaign
 
 
 ## 📊 The Dashboard
-* **Studio_J_Strategic_Review.pdf:** A high-level executive summary of the findings, including the marketing funnel audit and growth roadmap. Recommended for quick viewing.
-* **Studio_J_Analysis.pbix:** The raw Power BI project file containing the data model, DAX measures, and interactive visualizations.
+* [**Studio_J_Strategic_Review.pdf:**](./Roadmap_for_Revenue_Scaling_Funnel_Optimization.pdf) A high-level executive summary of the findings, including the marketing funnel audit and growth roadmap. Recommended for quick viewing.
+* [**Studio_J_Analysis.pbix:**](./Roadmap_for_Revenue_Scaling_Funnel_Optimization.pbix) The raw Power BI project file containing the data model, DAX measures, and interactive visualizations.
 
 
 ## 💡 Key Insights
