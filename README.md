@@ -1,7 +1,7 @@
 # Marketing Campaign Analysis
 
 ## 🎯 Executive Summary
-This project analyzes a public marketing dataset (30k+ rows) to measure campaign efficiency to grow revenue and increase ROI for a fictitious marketing agency. Using ETL and visualization best practices, I transformed raw data into structured views in PostgreSQL to power a dynamic Power BI dashboard. 
+This project analyzes a public marketing dataset (50k+ rows) to measure campaign efficiency to grow revenue and increase ROI for a fictitious marketing agency. Using ETL and visualization best practices, I transformed raw data into structured views in PostgreSQL to power a dynamic Power BI dashboard. 
 
 <img width="1106" height="531" alt="image" src="https://github.com/user-attachments/assets/2ec42987-baa7-47b5-8472-6eaeb5846b2f" />
 
