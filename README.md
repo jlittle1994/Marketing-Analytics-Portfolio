@@ -6,7 +6,7 @@ This project analyzes a public marketing dataset (30k+ rows) to measure campaign
 <img width="1106" height="531" alt="image" src="https://github.com/user-attachments/assets/2ec42987-baa7-47b5-8472-6eaeb5846b2f" />
 
 ## 🛠️ The Tech Stack
-* **SQL:** Data cleaning and multi-attribution logic.
+* **SQL:** Data cleaning and multi-attribution logic. [SQL file here](./nykaa_marketing_data_transformation.sql). 
 * **Power BI:** DAX for time-intelligence and aggregate functions, and visualizations for data analysis and insights.
 
 
